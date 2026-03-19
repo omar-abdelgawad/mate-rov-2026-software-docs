@@ -4,9 +4,10 @@ This repository is dedicated to document all different kinds of stuff in our wor
 
 ## Our Team:
 
+- [Omar Abdelgawad](https://github.com/omar-abdelgawad) -> supervisor
+- [Ahmed Ismail](https://github.com/ahmed-Ismail-elbrolosy) -> lead
 - [Motaz Elsaman](https://github.com/motazsaman214)
 - [Marwan](https://github.com/MarwanULQ)
-- [Ahmed Ismail](https://github.com/ahmed-Ismail-elbrolosy)
 - [Nadine Nabih](https://github.com/NadineNabih)
 - [Seif Eldeen Mostafa](https://github.com/Vseif1011)
 - [Abdelrhman Elziat](https://github.com/abdelrahman120240010-cmyk)
@@ -34,6 +35,7 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 - 3d Model -> (TODO)
 - Threat Level determination through Information Sheet -> (TODO)
 - Crab Detection -> (TODO)
+- gui -> (TODO)
 
 ## Development practices
 
