@@ -37,6 +37,7 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 - Threat Level determination through Information Sheet -> [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem)
 - Crab Detection -> (TODO)
 - gui -> (TODO)
+- eDNA utils -> (TODO, also might be just inside gui repo)
 
 ## Development practices
 
