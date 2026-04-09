@@ -41,7 +41,7 @@ TODO: this link requires review and updates from last year.
 We decided to develop each subtask in a repository mainly as a library. Here are the list of subtasks and their respective repos:
 
 - Measure iceberg depth -> [mate-rov-2026-iceberg-depth](https://github.com/MarwanULQ/mate-rov-2026-iceberg-depth)
-- 3d Model -> (TODO)
+- 3d Model -> [3dws](https://github.com/ahmed-Ismail-elbrolosy/3dws)
 - Threat Level determination through Information Sheet -> [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem)
 - Crab Detection -> [mate-rov-2026-crab-detection](https://github.com/ejustroboticsclub/mate-rov-2026-crab-detection)
 - gui -> (TODO)
