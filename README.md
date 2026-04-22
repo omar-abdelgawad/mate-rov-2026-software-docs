@@ -47,7 +47,7 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 | 3D Model (Task 1.2)                                                     | [3dws](https://github.com/ahmed-Ismail-elbrolosy/3dws) |
 | Threat Level determination through Information Sheet (Task 2.2 part2)         | [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem) |
 | Crab Detection (Task 2.1)                                               | [mate-rov-2026-crab-detection](https://github.com/ejustroboticsclub/mate-rov-2026-crab-detection) |
-| GUI                                                          | TODO |
+| GUI                                                          | [mate-rov-2026-rov_ws](https://github.com/omar-abdelgawad/mate-rov-2026-rov_ws) |
 | eDNA utils (Task 2.5)                                                   | TODO (might be inside GUI repo) |
 
 ## Development practices
