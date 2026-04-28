@@ -4,15 +4,16 @@ This repository is dedicated to document all different kinds of stuff in our wor
 
 ## Our Team:
 
-- [Anas Badr](https://github.com/k3rnel-pan1c-a) -> head
-- [Omar Abdelgawad](https://github.com/omar-abdelgawad) -> vice-head
-- [Ahmed Ismail](https://github.com/ahmed-Ismail-elbrolosy) -> lead
-- [Motaz Elsaman](https://github.com/motazsaman214)
+- [Anas Badr](https://github.com/k3rnel-pan1c-a)
+- [Omar Abdelgawad](https://github.com/omar-abdelgawad)
+- [Ahmed Ismail](https://github.com/ahmed-Ismail-elbrolosy)
+- [Mohammed Elseiagy](https://github.com/MohamedAlsiagy)
 - [Marwan](https://github.com/MarwanULQ)
-- [Nadine Nabih](https://github.com/NadineNabih)
 - [Seif Eldeen Mostafa](https://github.com/Vseif1011)
-- [Abdelrhman Elziat](https://github.com/abdelrahman120240010-cmyk)
 - [Ahmed Anwar](https://github.com/0xanwar)
+- [Motaz Elsaman](https://github.com/motazsaman214)
+- [Nadine Nabih](https://github.com/NadineNabih)
+- [Abdelrhman Elziat](https://github.com/abdelrahman120240010-cmyk)
 - [Mahmoud Abualfadl](https://github.com/MahmoudAbualfadl)
 
 ## Gdrive link:
@@ -43,12 +44,13 @@ We decided to develop each subtask in a repository mainly as a library. Here are
 
 | Task                                                         | Repository |
 |:--------------------------------------------------------------:|:-----------:|
-| Measure iceberg keel depth (Task 2.2 part 1)                                        | [mate-rov-2026-iceberg-depth](https://github.com/MarwanULQ/mate-rov-2026-iceberg-depth) |
+| Measure iceberg keel depth (Task 2.2 part 1)                            | [mate-rov-2026-iceberg-depth](https://github.com/MarwanULQ/mate-rov-2026-iceberg-depth) |
 | 3D Model (Task 1.2)                                                     | [3dws](https://github.com/ahmed-Ismail-elbrolosy/3dws) |
-| Threat Level determination through Information Sheet (Task 2.2 part2)         | [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem) |
+| Threat Level determination through Information Sheet (Task 2.2 part2)   | [mate-rov-2026-information-sheet-problem](https://github.com/ejustroboticsclub/mate-rov-2026-information-sheet-problem) |
 | Crab Detection (Task 2.1)                                               | [mate-rov-2026-crab-detection](https://github.com/ejustroboticsclub/mate-rov-2026-crab-detection) |
-| GUI                                                          | [mate-rov-2026-rov_ws](https://github.com/omar-abdelgawad/mate-rov-2026-rov_ws) |
-| eDNA utils (Task 2.5)                                                   | TODO (might be inside GUI repo) |
+| GUI                                                          | [mate-rov-2026-gui](https://github.com/omar-abdelgawad/mate-rov-2026-gui) |
+| eDNA utils (Task 2.5)                                                   | [mate-rov-2026-gui](https://github.com/omar-abdelgawad/mate-rov-2026-gui/blob/main/src/rov_gui/edna_gui.py) |
+| rasberry stuff (the workspace of the ROV itself underwater)                                                   | [MATE-ROV-2026-CANbus-OTA-backbone](https://github.com/AhmedLoayElattar/MATE-ROV-2026-CANbus-OTA-backbone) |
 
 ## Development practices
 
